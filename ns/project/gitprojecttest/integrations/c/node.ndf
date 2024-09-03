@@ -45,9 +45,10 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="lastModifiedBy">flowadmin</value>
-    <value name="lastModifiedDate">1725355308712</value>
-    <value name="displayName">A</value>
+    <value name="createdBy">flowadmin</value>
+    <value name="createdDate">1725355325113</value>
+    <value name="lastModifiedDate">1725355325113</value>
+    <value name="displayName">c</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
       <record name="/0" javaclass="com.wm.util.Values">
@@ -63,12 +64,6 @@
           <value name="serviceName">pub.date:calculateDateDifference</value>
           <value name="transformerSupport">true</value>
         </record>
-        <Boolean name="serviceReferenceResolved">true</Boolean>
-        <value name="nodePathForDebug">0</value>
-      </record>
-      <record name="/1" javaclass="com.wm.util.Values">
-        <value name="itemType">ALL</value>
-        <value name="name">NEW</value>
       </record>
     </record>
   </record>
